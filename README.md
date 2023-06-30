@@ -1,5 +1,4 @@
-### Hi there 👋
-
+## j-yong98 🙃
 <!--
 **j-yong98/j-yong98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![j-yong's GitHub stats](https://github-readme-stats.vercel.app/api?username=j-yong&show_icons=true&theme=tokyonight) 
+![j-yong98's GitHub stats](https://github-readme-stats.vercel.app/api?username=j-yong98&show_icons=true&theme=tokyonight)
+　
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chlwodyd9829)](https://solved.ac/chlwodyd9829/)
