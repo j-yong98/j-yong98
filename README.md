@@ -33,6 +33,6 @@ Here are some ideas to get you started:
 ![Jenkins](https://img.shields.io/badge/jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white)
 
 ## Activity
-![j-yong98's GitHub stats](https://github-readme-stats.vercel.app/api?username=j-yong98&show_icons=true&theme=tokyonight)
+![j-yong98's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=j-yong98&hide_border=true&layout=compact)
 　
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chlwodyd9829)](https://solved.ac/chlwodyd9829/)
