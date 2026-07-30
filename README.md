@@ -14,6 +14,7 @@ Java와 Spring Boot를 기반으로 안정적이고 확장 가능한 서비스�
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
 ![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![MyBatis](https://img.shields.io/badge/MyBatis-BE1E2D?style=flat-square&logoColor=white)
 
 ### Database & Cache
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
