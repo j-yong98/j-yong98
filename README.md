@@ -1,38 +1,50 @@
-## j-yong98 🙃
-안녕하세요.  
-스프링을 중심으로 백엔드 기술과 알고리즘에 대해 학습하고 있습니다.  
-<!--
-**j-yong98/j-yong98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi there
 
-Here are some ideas to get you started:
+안녕하세요, 백엔드 개발자 최재용입니다.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-## Skils
-### Language 
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white) 
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)
-![Javascript](https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white)
-### Frameworks
-![Spring-boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white)
-![VueJS](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)
-### Database
-![MySql](https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white)
-### DevOps
-![Amazon](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white)
+Java와 Spring Boot를 기반으로 안정적이고 확장 가능한 서비스를 개발하는 데 관심이 있습니다.
+데이터베이스, 분산 시스템, 클라우드 환경을 학습하며 서비스 운영과 성능 개선을 경험하고 있습니다.
 
-## Activity
-![j-yong98's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=j-yong98&hide_border=true&layout=compact)
-　
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chlwodyd9829)](https://solved.ac/chlwodyd9829/)
+---
+
+## 🛠 Tech Stack
+
+### Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat-square&logo=spring&logoColor=white)
+
+### Database & Cache
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+### Infrastructure
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+### Monitoring
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Loki](https://img.shields.io/badge/Loki-F2CC0C?style=flat-square&logo=grafana&logoColor=black)
+
+---
+
+## 🚀 Projects
+
+| Project | Period | Link |
+|---------|--------|------|
+| PochakFarm | 2026.04 ~ Present | [Pochakfarm repository](https://github.com/Somagochi/pochakfarm-server) |
+| DailyUs | 2026.03 ~ 2026.05 | [DailyUs Repository](https://github.com/f-lab-edu/daily-us) |
+| Fitrun | 2025.05 ~ 2025.08 | [Fitrun Repository](https://github.com/Somagochi/pochakfarm-server) |
+
+---
+
+## 📚 Activities
+
+- **AWS Maestro**  (`2026.04 ~ Present`)
+- **YAPP**  (`2025.05 ~ 2025.08`)
+- **SSAFY**  (`2023.07 ~ 2024.06`)
