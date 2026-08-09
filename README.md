@@ -39,7 +39,6 @@ Java와 Spring Boot를 기반으로 안정적이고 확장 가능한 서비스�
 | Project | Period | Link |
 |---------|--------|------|
 | PochakFarm | 2026.04 ~ Present | [Pochakfarm repository](https://github.com/Somagochi/pochakfarm-server) |
-| DailyUs | 2026.03 ~ 2026.05 | [DailyUs Repository](https://github.com/f-lab-edu/daily-us) |
 | Fitrun | 2025.05 ~ 2025.08 | [Fitrun Repository](https://github.com/Somagochi/pochakfarm-server) |
 
 ---
