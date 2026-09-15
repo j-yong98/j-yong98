@@ -39,7 +39,7 @@ Java와 Spring Boot를 기반으로 안정적이고 확장 가능한 서비스�
 | Project | Period | Link |
 |---------|--------|------|
 | PochakFarm | 2026.04 ~ Present | [Pochakfarm repository](https://github.com/Somagochi/pochakfarm-server) |
-| Fitrun | 2025.05 ~ 2025.08 | [Fitrun Repository](https://github.com/Somagochi/pochakfarm-server) |
+| Fitrun | 2025.05 ~ 2025.08 | [Fitrun Repository](https://github.com/YAPP-Github/26th-App-Team-4-BE) |
 
 ---
 
