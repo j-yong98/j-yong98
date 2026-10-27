@@ -38,13 +38,13 @@ Java와 Spring Boot를 기반으로 안정적이고 확장 가능한 서비스�
 
 | Project | Period | Link |
 |---------|--------|------|
-| PochakFarm | 2026.04 ~ Present | [Pochakfarm repository](https://github.com/Somagochi/pochakfarm-server) |
+| PochakFarm | 2026.04 ~ 2026.11 | [Pochakfarm repository](https://github.com/Somagochi/pochakfarm-server) |
 | Fitrun | 2025.05 ~ 2025.08 | [Fitrun Repository](https://github.com/YAPP-Github/26th-App-Team-4-BE) |
 
 ---
 
 ## 📚 Activities
 
-- **AWS Maestro**  (`2026.04 ~ Present`)
+- **AWS Maestro**  (`2026.04 ~ 2026.11`)
 - **YAPP**  (`2025.05 ~ 2025.08`)
 - **SSAFY**  (`2023.07 ~ 2024.06`)
