@@ -38,7 +38,7 @@ Java와 Spring Boot를 기반으로 안정적이고 확장 가능한 서비스�
 
 | Project | Period | Link |
 |---------|--------|------|
-| Omnime | 2026.09 ~ | [Omnime](https://omnime.p-e.kr/) |
+| Omnime | 2026.09 ~ | [Omnime](https://apps.apple.com/kr/app/omnime-%EC%9D%BC%EC%A0%95-%EA%B4%80%EB%A6%AC-ai-%EB%B9%84%EC%84%9C/id6807932477) |
 | PochakFarm | 2026.04 ~ 2026.11 | [Pochakfarm repository](https://github.com/Somagochi/pochakfarm-server) |
 | Fitrun | 2025.05 ~ 2025.08 | [Fitrun Repository](https://github.com/YAPP-Github/26th-App-Team-4-BE) |
 
